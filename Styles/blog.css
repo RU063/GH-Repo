@@ -10,10 +10,16 @@ div{
   font-weight: 800;}
   img{
     height: 200px;
+    
   }
   h2{
     text-align: center;
     color: blueviolet;
     font-size: 30px;
     font-weight: 800;
-  }
+    }
+    .img{
+      justify-content: center;
+    align-items: center;
+    background-color: white;
+    }
