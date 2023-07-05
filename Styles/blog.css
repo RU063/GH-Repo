@@ -23,3 +23,6 @@ div{
     align-items: center;
     background-color: white;
     }
+    .list{
+      justify-content: center;
+    }
