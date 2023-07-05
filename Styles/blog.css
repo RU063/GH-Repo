@@ -7,5 +7,13 @@ div{
   text-align: center;
   box-shadow: 10px 10px 20px 10px;
   font-size: larger;
-  font-weight: 800;
-}
+  font-weight: 800;}
+  img{
+    height: 200px;
+  }
+  h2{
+    text-align: center;
+    color: blueviolet;
+    font-size: 30px;
+    font-weight: 800;
+  }
